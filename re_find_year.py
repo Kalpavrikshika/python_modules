@@ -1,5 +1,5 @@
 import re
-import urllib.request
+import urllib.request 
 import operator
 
 #download wiki page

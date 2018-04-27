@@ -10,7 +10,7 @@ def show(iterable):
             if first is not None:
                 print()
             first = item[0]
-        print(''.join(item), end=' ')
+        print(''.join(item))
     print()
 
 print('Unique pairs:\n')

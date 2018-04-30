@@ -14,4 +14,5 @@ print('All permutations: \n')
 show(permutations('abcd'))
 
 print('\nPairs:\n')
+#use r argument to limit the length and number of the individual permutations.
 show(permutations('abcd' , r = 2))

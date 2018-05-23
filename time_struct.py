@@ -1,3 +1,6 @@
+#gmtime() returns the current time in UTC
+#localtime() returns the current time with the current time zone
+#struct_time converts to f.p representation
 import time
 
 def show_struct(s):
